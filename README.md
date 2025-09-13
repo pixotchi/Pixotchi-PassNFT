@@ -166,4 +166,8 @@ The `PixotchiPassport` contract is an upgradeable ERC721-based NFT contract that
 
 ## License
 
-This project is licensed under the MIT License.
+Licensed under the MIT License. See the `LICENSE` file at the project root for details.
+
+---
+
+**Built with ❤️ for the Pixotchi community**
